@@ -10,7 +10,7 @@ It manages suppliers, customers, orders, and inventory, with queries, reports, a
 - User-friendly splash page for navigation
 
 ## Screenshots
-![Splash Page](access-splash.png.)
+![Splash Page](access-splash.png)
 ![Customer Table](customer-table.png.)
 
 ## How to Run
