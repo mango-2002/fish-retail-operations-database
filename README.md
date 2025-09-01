@@ -10,8 +10,8 @@ It manages suppliers, customers, orders, and inventory, with queries, reports, a
 - User-friendly splash page for navigation
 
 ## Screenshots
-![Splash Page](access-splash.png)
-![Customer Table](customer-table.png)
+![Splash Page](access-splash.png.)
+![Customer Table](customer-table.png.)
 
 ## How to Run
 1. Download `Retail_Operations_DB.zip` from this repo
